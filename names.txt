@@ -1,8 +1,0 @@
-  hi from dc
-  first commit done using git commit -m " ... "
-  now using >> vi names.txt .. im here to edit inside the file
-
-  first used git add filename.txt
-  then commit
-
-
