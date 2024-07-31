@@ -1,0 +1,24 @@
+my project involves simulation which tests and improves
+		the security of chips in electronic devices. 
+		
+the existing system considered only the physical attacks on SOC devices but 
+		our proposed system performs various attacks simulations.
+
+  also the project involves the attack generation and detection using the pattern of attacks.
+
+s
+
+----------
+
+This project isn't designed for use in a real organization or institution. 
+
+Instead, it's a learning tool to help me understand ..
+					how different programming concepts work together. 
+
+By building this project, I've learned how to connect Java with a database using 
+									JDBC and SQL. 
+
+I've also practiced using object-oriented programming concepts.
+
+This experience has given me a better understanding of how to build software that 
+				manages data and interacts with databases.
